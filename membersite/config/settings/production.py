@@ -1,5 +1,5 @@
 from .base import *  # noqa
-from membersite.config.settings.base import *
+# from membersite.config.settings.base import *
 
 from .base import env
 import django_heroku
